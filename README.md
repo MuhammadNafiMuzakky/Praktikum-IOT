@@ -1,1 +1,6 @@
 # Praktikum-IOT
+
+Anggota Kelompok :
+1. ADHITYA BAGUS PRAKOSO 		(G.211.19.0114)
+2. RUDY DARMAWAN 			      (G.211.19.0116)
+3. MUHAMMAD NAFI MUZAKKY 	  (G.211.19.0117)
